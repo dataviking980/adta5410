@@ -149,3 +149,10 @@ ax.set_ylabel("Recent Website Visits")
 ax.set_xlabel("Spend Tier")
 st.pyplot(fig)
 
+
+#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~ RECOMMENDATION ~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#
+'''
+## Recommendations
+We recommend isolating records based on low and medium tier spending to develop a robust model with stronger prediction power. With these values removed, we believe this will develop meaningful differences in the target variable to help build smarter, more personalized strategies and reduce noise within the data.
+'''
+
