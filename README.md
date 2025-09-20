@@ -1,4 +1,4 @@
-# ADTA 5410 - Streamlit Dashboard
+# ADTA 5410 - [Streamlit Dashboard](https://adta5410-ka8juz27jhh6lzujunzxnz.streamlit.app/)
 
 ### Customer Lifetime Value Dashboard
 This Streamlit dashboard was built as part of a graduate-level analytics course to explore the behavioral drivers of Customer Lifetime Value (CLV).
