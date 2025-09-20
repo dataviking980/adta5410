@@ -94,7 +94,7 @@ st.pyplot(pplot.fig)
 #~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~ INSIGHT 1 ~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#~#
 '''
 ## Heatmap Plot of Correlation Coefficients
-The heatmap further shows that most variables do not have a strong linear relationship with `clv_3yr_usd`, although `total_spend_12m` has a correlation coefficient of 1. May features contain coefficients close to zero.
+The heatmap further shows that most variables do not have a strong linear relationship with `clv_3yr_usd`, although `total_spend_12m` has a correlation coefficient of 1. Many features contain coefficients close to zero.
 '''
 
 corr = filtered_data[cols].corr()
