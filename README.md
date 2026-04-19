@@ -1,5 +1,7 @@
 # ADTA 5410 - [Streamlit Dashboard](https://adta5410-ka8juz27jhh6lzujunzxnz.streamlit.app/)
 
+_this dashboard was prepared as an assignment for ADTA 5410. The data is synthetic, which created unrealistic methods of determining CLV with limited features._
+
 ### Customer Lifetime Value Dashboard
 This Streamlit dashboard was built as part of a graduate-level analytics course to explore the behavioral drivers of Customer Lifetime Value (CLV).
 
